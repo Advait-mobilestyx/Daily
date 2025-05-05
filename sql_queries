@@ -15,4 +15,7 @@ select * from pops_contribution_details_cycle; -- SIP CYCLE DETAILS
 MOHD AHMED SIP NOT DEBITED FOR APRIL 2025
 SIP DATE - 1747679400
 Created at - 1745094901
-Mandate Trigger - 1745012222
+
+Mandate 1 - 1745012222
+Mandate 2 - 1745177826
+Mandate 3 -1745350622
