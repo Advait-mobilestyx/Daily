@@ -14,6 +14,7 @@ select * from pops_pg_transaction_details; -- PG Transaction Details
 
 
 MOHD AHMED SIP NOT DEBITED FOR APRIL 2025
+PRAN - 401001069909
 SIP DATE - 1747679400
 Created at - 1745094901
 
@@ -25,5 +26,5 @@ ________________________________________________________________________________
                  CHECKING IF THE TRANSACTIONS ARE REFUNDED
 ________________________________________________________________________________
 
-400081122495 - TRN17297489751808
+400081122495 - TRN17297489751808 - REFUNDED
 400081122495 - TRN17296890515622
