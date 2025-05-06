@@ -4,6 +4,7 @@ SQL QUEIRES
 select * from pops_master_contribution_details; -- SIP DETAILS
 select * from pops_subsequent_contribution_details; -- SUBSEQUENT DETAILS
 select * from pops_contribution_details_cycle; -- SIP CYCLE DETAILS
+select * from pops_pg_transaction_details; -- PG Transaction Details
 
 
 1742195929   March 17, 2025 7:18:49 AM
