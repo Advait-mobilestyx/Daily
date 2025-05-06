@@ -7,16 +7,25 @@ select * from pops_contribution_details_cycle; -- SIP CYCLE DETAILS
 select * from pops_pg_transaction_details; -- PG Transaction Details
 
 
+
+
 1742195929   March 17, 2025 7:18:49 AM
 1742196214   March 17, 2025 7:23:34 AM
 1742196324   March 17, 2025 7:25:24 AM
 1744922102   April 18, 2025 2:05:02 AM
 
 
+
+______________________________________________________________________________
+            Mohd Ahmed April Sip not debited
+______________________________________________________________________________
 MOHD AHMED SIP NOT DEBITED FOR APRIL 2025
 PRAN - 401001069909
+Mandate Status  - Pending
 SIP DATE - 1747679400 20th May
 Created at - 1745094901 20th April
+Mandate Status  - All NULL
+________________________________________________________________
 
 Mandate 1 - 1745012222
 Mandate 2 - 1745177826
