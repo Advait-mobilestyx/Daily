@@ -84,3 +84,61 @@ Mobile : 9599844434
 
 
 faisal@mobilestyx.co.in
+
+
+
+
+INSERT INTO charge_matrix (
+    matrix_id,
+    corporate_id,
+    corporate_name,
+    corporate_cho_no,
+    matrix_type,
+    matrix_category,
+    account_opening_charges,
+    pop_charge,
+    igst_register,
+    cgst_register,
+    sgst_register,
+    igst_pop_charge,
+    cgst_pop_charge,
+    sgst_pop_charge,
+    corp_discount,
+    status,
+    T2,
+    V,
+    max_contribution,
+    state,
+    requested_on,
+    min,
+    max,
+    created_on,
+    updated_on
+) VALUES (
+    6,
+    6,
+    'corp_6',
+    6000000,
+    'CP',
+    'CAMS',
+    13.0000000000,
+    0.0000000000,
+    18.0000000000,
+    0.0000000000,
+    0.0000000000,
+    18.0000000000,
+    0.0000000000,
+    0.0000000000,
+    11.0000000000,
+    'A',
+    0.5000000000,
+    0.5000000000,
+    25000,
+    'Mizoram',
+    1745495258,
+    0,
+    0,
+    1745495278,
+    0
+);
+
