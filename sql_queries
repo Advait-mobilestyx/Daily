@@ -142,3 +142,42 @@ INSERT INTO charge_matrix (
     0
 );
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT 
+    t1.*, 
+    t2.*, 
+    t1.corporate_name AS t1_corporate_name,
+    t2.corporate_name AS t2_corporate_name,
+    t3.state AS state
+FROM 
+    corporate_contribution AS t1
+JOIN 
+    corporate_contribution_user_details AS t2 ON t1.corporate_contr_id = t2.corporate_contr_id
+JOIN 
+    corporate_details AS t3 ON t1.corporate_id = t3.corporate_id
+WHERE 
+    t2.sheet_status = 'A'
+    AND t2.pran_status = 'Active'
+    -- Optional date filter
+    -- AND t1.created_on BETWEEN '2024-01-01' AND '2024-12-31'
+ORDER BY 
+    t1.created_on DESC;
+
+
