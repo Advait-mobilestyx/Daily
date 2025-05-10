@@ -35,6 +35,10 @@ TRN17453506229835
 PG TABlE DATA
 1745350623 B2B Created_at
  1745382304          S2S Created_at
+
+
+{"code": "200", "data": {"umrn": "1524287676366297088", "status": true}, "message": "", "statusCode": "200"}
+{"errors": [{"code": "FAILED"}], "pgName": "JMPAYPG", "headers": {"host": ["pop.iciciprupension.com"], "user-agent": ["Apache-HttpClient/5.1.3 (Java/17.0.13)"], "content-type": ["application/json"], "content-length": ["389"], "accept-encoding": ["gzip, x-gzip, deflate"], "x-amzn-trace-id": ["Self=1-68086ba0-07c5558f4945bb4e6e593fb1;Root=1-68086ba0-705e9fba125f19fa670e1edd"], "x-forwarded-for": ["49.40.27.13, 172.30.69.141, 172.30.82.138, 172.30.83.146"], "x-forwarded-port": ["443"], "x-forwarded-proto": ["https"], "x-jio-payload-auth": ["D60BEDB3EA7CF1363CD57BE3976B52A904821B8DAA287EBAB23EC13AE4C96F78"]}, "success": false, "channelId": "ICICIPRUJOP26042024", "merchantId": "ICICIPRUJOP26042024", "totalAmount": "1035.40", "paymentDetail": [{"amount": "1035.40", "totalAmount": "1035.40"}], "transactionType": "SIPTIER1", "mandateRespDetails": {"umrn": "1524287676366297088"}, "transactionDateTime": "2025-04-23T01:07:03", "transactionRefNumber": "TRN17453506229835"}
 ________________________________________________________________
 
 Mandate 1 - 1745012222
