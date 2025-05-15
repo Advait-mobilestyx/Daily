@@ -2,4 +2,11 @@ Details -
 
 TRN17472984487189
 sip date - 1747247400
+{"responseData": {"errors": [{"code": "1", "reason": "", "details": "Failed"}], "success": false, "channelId": "ICICIPRUJOP26042024", "totalAmount": null, "paymentDetail": [{"amount": "4035.40"}], "transactionType": "SIPTIER1", "transactionDateTime": "2025-05-15T14:10:49", "transactionRefNumber": "TRN17472984487189"}, "X-JIO-PAYLOAD-AUTH": "AC45A732AA33848EED189E6D729EF869F710FD5E6BB4441CFB0D614D77AC436A"}
+
+
+
+
+
+
   
