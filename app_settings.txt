@@ -1,0 +1,304 @@
+Array
+(
+    [cams_cra] => Array
+        (
+            [auth_api_credential] => Array
+                (
+                    [client_id] => IPRUP_POP_01
+                    [secret_key] => PNg840j07JwY
+                )
+
+            [api_domain] => Array
+                (
+                    [api_domain] => https://services.camsnps.in/
+                )
+
+            [auth_api_endpoint] => Array
+                (
+                    [api_endpoint] => auth-service/api/v1/external/auth/login
+                )
+
+            [subscriber_details_api_endpoint] => Array
+                (
+                    [api_endpoint] => outflow-service/api/v1/profile/getpdfprofiledetails/
+                )
+
+            [tier_status_api_endpoint] => Array
+                (
+                    [api_endpoint] => outflow-service/api/v1/pran/ext-bulk/status-check
+                )
+
+            [pop_credential] => Array
+                (
+                    [pop_reg_no] => 9100005
+                    [pop_sp_reg_no] => 9400068
+                )
+
+            [create_contribution_api_endpoint] => Array
+                (
+                    [api_endpoint] => outflow-service/api/v1/contribution/save
+                )
+
+            [pran_status_api_credential] => Array
+                (
+                    [username] => uatombudsmanuser
+                    [password] => Testing@01
+                )
+
+            [pran_status_api_endpoint] => Array
+                (
+                    [api_endpoint] => outflow-service/api/v1/get-pran-status
+                )
+
+            [access_token_details] => Array
+                (
+                    [access_token] => U2FsdGVkX1+cG5O+9Hl13Msnh4eaM/WhjQGEa58jd232aJ+367MXlyKA6VfSOZrTXR3WxqVL3ed/9tZgCv/ZRew+fKj2RugYciKFHR2TLfz6q2j+y1M6/zr5CEWiD8ti1uHXkEx1iDK5oYfUHAH5EZcM8sJ8P6TEBt3UyC5gvkOaaZEVdRyUc3At/ERjoeyM4NDdvP6gfEIPUYzq6c9VYAVpSgMf/pKRBVCCvK0DrGKEHuMlsf+eNDE3UiimFHiciGwCvoXQzjWzFeQIV3XPW/JALfh93p/jQvXnh8M+tW27Ymr2HGM8FGavDmwomT89zyPtXJTAx1VEka3/stsl7l5Ke0dy3OoAo2YQPA1gpZUAKYEJnoP+O0bhG7clnUhN1L+Z25a2wZG4GbOr2tbne2qSdgFBsQrLKwyzJekwtYd6aEwTTSqlSwf/T/4VKbG1/ZKdMtfCCcMJaYlePBSvWJFz3s9/FeE0w75QE5QXY3bOL2PorjQ2sbQzR4/yA2JSEcIPZcPIagvOTonUoU3wfG07YlGe52YWOWFoxNaHbiwSnAO28fo1ZO5aRVzYlIL7W1xSHozIAy44PZJn4xX3CWZC97Z0dSGczc7yuAeojwD131qhW5V3mplqbTPesrrnC/3RuvprTyXxxoAz0sam98TQ1k49Pd1KsnRiTwyLTfj090JYF8EfskLdRB9BSqTB8bkO2YR78T+scpiH3UOmjpzkXlV9YnG+gRmc9uwRjG+R4MJmAVP4eXCmTtDeb24YSzz44pRGzj1yMJ91mImfLFUT6F5zXdLiJ9hkjINOvXmFul/hCkfyF7zDkiAQwmqbVz5r+jz6uqW/bMEdZ9D4p8g01RNRfN2oyyd4qYrzleCI3carbpvnPYrD7UifkE6AWI/aToEDYM9Vl8a9k9Pobbf3c6Q+WP3uATQWh7Cx4rZ5JvE+87kaXRy7GM8W8UJy3CGZGC1Rayqh/kG2H2nr5qslmRAwU+KkRfTxLFR27aOy4OMyS6Sas0oU0qeUxgIV
+                    [token_last_generated_on] => 1747722242
+                )
+
+            [refresh_token_api_endpoint] => Array
+                (
+                    [api_endpoint] => auth-service/api/v1/auth/refresh/token
+                )
+
+        )
+
+    [nsdl_cra] => Array
+        (
+            [api_access_token] => Array
+                (
+                    [access_token] => MTMwMTIzM1dTOjE2ZjE0MDQ=
+                )
+
+            [api_authorization_token] => Array
+                (
+                    [authorization] => Basic MTMwMTIzM1dTOjE2ZjE0MDQ=
+                )
+
+            [api_domain] => Array
+                (
+                    [api_domain] => https://cra-nsdl.com/
+                )
+
+            [subscriber_details_api_endpoint] => Array
+                (
+                    [api_endpoint] => WS/view/SubScriberDetails
+                )
+
+            [api_user_id] => Array
+                (
+                    [user_id] => 1301233WS
+                )
+
+            [whitelisted_server_ip_address] => Array
+                (
+                    [ip_address] => 10.239.76.39
+                )
+
+            [pop_credential] => Array
+                (
+                    [pop_reg_no] => 5000936
+                    [pop_sp_reg_no] => 7607272
+                )
+
+            [create_contribution_api_endpoint] => Array
+                (
+                    [api_endpoint] => WS/subscriber/contribution/capture
+                )
+
+            [check_pran_eligibility_api_endpoint] => Array
+                (
+                    [api_endpoint] => WS/subscriber/contribution/checkpraneligibility
+                )
+
+            [pran_inquiry_api_endpoint] => Array
+                (
+                    [api_endpoint] => MobileApp/subscriber/accStatus_v1/
+                )
+
+            [encryption_key] => Array
+                (
+                    [encryption_key] => eNPSSecreTApiKey
+                )
+
+        )
+
+    [kfintech_cra] => Array
+        (
+            [license_key] => Array
+                (
+                    [license_key] => 14c89265cc554cb9850b51dac691d327
+                )
+
+            [encryption_key] => Array
+                (
+                    [encryption_key] => d885d2e4d57d4711ae8a1a7f1ceaba19
+                )
+
+            [pop_credential] => Array
+                (
+                    [pop_reg_no] => 1616002
+                    [pop_sp_reg_no] => 1741867
+                )
+
+            [api_domain] => Array
+                (
+                    [api_domain] => https://cra.kfintech.com/
+                )
+
+            [act_status_api_endpoint] => Array
+                (
+                    [api_endpoint] => POPAPIService/pop/ActStatus
+                )
+
+            [portfolio_api_endpoint] => Array
+                (
+                    [api_endpoint] => POPAPIService/POP/PORTFOLIOV2
+                )
+
+            [create_contribution_api_endpoint] => Array
+                (
+                    [api_endpoint] => POPAPIService/pop/SAVECONTRIBUTEDETAILS
+                )
+
+        )
+
+    [payment_gateway] => Array
+        (
+            [create_mandate_api_credential] => Array
+                (
+                    [callback_ref_notify_url_b2b] => https://pop.iciciprupension.com/retail_sip_jio_payment_response
+                )
+
+            [transaction_type] => Array
+                (
+                    [sip_tier2] => SIPTIER2
+                    [sip_tier1] => SIPTIER1
+                    [tier2] => NPSCONTRITIER2
+                    [tier1] => NPSCONTRITIER1
+                )
+
+            [create_payment_api_credential] => Array
+                (
+                    [callback_ref_notify_url_b2b] => https://pop.iciciprupension.com/subsequent_contribution_jio_payment_response
+                    [callback_ref_notify_url_s2s] => https://pop.iciciprupension.com/s2s_response/payment_response
+                )
+
+            [credential] => Array
+                (
+                    [secret_key] => f7415a2a740088176344cc9dedb542485e00c4114d08a0ff875daed47e929cc9e83aa614ddd88dcec5cb5729e84a788aa99098cd0de940de91a17597ffc05bdf
+                    [channel_id] => ICICIPRUJOP26042024
+                )
+
+            [create_payment_api_endpoint] => Array
+                (
+                    [api_endpoint] => jop/initiate/payment/request
+                )
+
+            [api_domain] => Array
+                (
+                    [api_domain] => https://payments.jio.com/
+                )
+
+            [refund_api_endpoint] => Array
+                (
+                    [api_endpoint] => jop/api/v2/initiate-refund
+                )
+
+            [autodebit_mandate_api_endpoint] => Array
+                (
+                    [api_endpoint] => jop/v1/mandate/autodebit/initiate
+                )
+
+            [cancel_autopay_mandate_api_endpoint] => Array
+                (
+                    [api_endpoint] => jop/v1/cancel/autopay
+                )
+
+            [autodebit_mandate_api_credential] => Array
+                (
+                    [debit_status_callback_url] => https://pop.iciciprupension.com/s2s_response/mandate_response
+                )
+
+            [refund_api_credential] => Array
+                (
+                    [callback_ref_notify_url] => https://pop.iciciprupension.com/s2s_response/refund_response
+                )
+
+            [status_polling_api_endpoint] => Array
+                (
+                    [api_endpoint] => jop/v2/payment/txn-status
+                )
+
+        )
+
+    [sms_gateway] => Array
+        (
+            [api_domain] => Array
+                (
+                    [api_domain] => https://bulkpush.mytoday.com/
+                )
+
+            [send_otp] => Array
+                (
+                    [api_endpoint] => BulkSms/SingleMsgApi
+                    [feedid] => 393805
+                    [username] => 9821716133
+                    [password] => gAS6pnW#67pA
+                    [templateid] => 1107171699601202979
+                    [entityid] => 1101601010000044794
+                    [send_text] => Dear Subscriber, Please use OTP [] to map your existing PRAN with corporate NPS scheme. Regards -ICICI Prudential Pension Funds Management Co Ltd
+                    [headers] => Content-Type: application/x-www-form-urlencoded
+                )
+
+            [credential] => Array
+                (
+                    [api_endpoint] => BulkSms/SingleMsgApi
+                    [feedid] => 393805
+                    [username] => 9821716133
+                    [password] => gAS6pnW#67pA
+                    [entityid] => 1101601010000044794
+                )
+
+        )
+
+    [email] => Array
+        (
+            [from_details] => Array
+                (
+                    [email] => nps@iciciprupension.com
+                )
+
+            [credential] => Array
+                (
+                    [api_endpoint] => https://emailapi.netcorecloud.net/v5/mail/send
+                    [api_key] => e2d2e664b30816cee3228f604de52020
+                )
+
+            [reply_to] => Array
+                (
+                    [email] => nps@iciciprupension.com
+                )
+
+        )
+
+    [ldap] => Array
+        (
+            [configuration] => Array
+                (
+                    [ldap_server] => LDAP://10.239.13.199
+                    [ldap_port] => 389
+                    [ldap_domain] => iciciprupensionfund
+                    [ldap_base_dn] => DC=iciciprupensionfund,DC=com
+                )
+
+            [ad_credentials] => Array
+                (
+                    [username] => pfmawscloud
+                    [password] => March@2025
+                    [ldap_bind_dn] => CN=%AD_USERNAME%,OU=Service Accounts,DC=iciciprupensionfund,DC=com
+                )
+
+        )
+
+)
