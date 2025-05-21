@@ -7,3 +7,12 @@ __________________________________________________________
 1747686901 1750357800   P                                                         CYCLE FOR JUNE
 1745094901 1747679400   F     1747769825    TRN17477698251690                     CYCLE FOR MAY
 1742416501 1745087400   F      1745350622    TRN17453506229835                    CYCLE FOR APRIL
+
+
+
+
+CREATE TABLE pops_nodal_action_logs (
+    id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    data JSON NOT NULL,
+    created_on INT NOT NULL
+);
